@@ -32,6 +32,7 @@ Tecnologías Utilizadas
 
 
 Estructura del Proyecto:
+
 ![image](https://github.com/user-attachments/assets/c2d95011-af5c-491f-83a2-2f0d4669521a)
 
 
@@ -67,6 +68,7 @@ Este sistema de inventario permite gestionar productos a través de una interfaz
 
 
 Imagen de la Interfaz Gráfica:
+
 ![image](https://github.com/user-attachments/assets/533b0f86-7293-4a3e-a1c3-e20110c84f1a)
 
 
