@@ -78,7 +78,7 @@ Documentación útil y librerías
 - WinForms en .NET: https://learn.microsoft.com/es-es/dotnet/desktop/winforms/
 - Newtonsoft.Json: https://www.newtonsoft.com/json/help/html/Introduction.htm
 - EPPlus (Excel): https://www.nuget.org/packages/epplus/
-- PDFSharp: https://github.com/empira/PDFsharp
+- PDFSharp: https://www.nuget.org/packages/PDFsharp
 - Serialización JSON: https://learn.microsoft.com/es-es/dotnet/standard/serialization/system-text-json-overview
 - Programación async/await: https://learn.microsoft.com/es-es/dotnet/csharp/programming-guide/concepts/async/
 
