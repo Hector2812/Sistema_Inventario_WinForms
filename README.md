@@ -33,6 +33,29 @@ Tecnologías Utilizadas
 
 Estructura del Proyecto
 
+SistemaInventarioWinForms/
+│
+├── 📁 Clases/
+│   ├── Inventario.cs
+│   ├── Producto.cs
+│   ├── ProductoSimple.cs
+│   ├── IProducto.cs
+│   └── ProductoNoEncontradoException.cs
+│
+├── 📁 Helpers/
+│   └── Exportador.cs
+│
+├── 📁 Datos/
+│   └── inventario.json         
+│
+├── FormPrincipal.cs            
+├── FormPrincipal.Designer.cs    
+├── Program.cs                   
+├── SistemaInventarioWinForms.csproj
+├── .gitignore
+└── README.md
+
+
 ¿Cómo probarlo?
 
 Este sistema de inventario permite gestionar productos a través de una interfaz gráfica construida con Windows Forms.
@@ -61,6 +84,10 @@ Este sistema de inventario permite gestionar productos a través de una interfaz
 
 7. Al cerrar y volver a abrir:
 - El sistema recupera el inventario automáticamente desde el archivo JSON
+
+
+Imagen de la Interfaz Gráfica:
+![image](https://github.com/user-attachments/assets/52c58607-e02f-4503-a7d4-af922bdf5a86)
 
 
 Documentación útil y librerías
