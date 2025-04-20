@@ -31,7 +31,7 @@ Tecnologías Utilizadas
 | Visual Studio 2022 | Entorno de desarrollo y diseño de formularios |
 
 
-Estructura del Proyecto
+Estructura del Proyecto:
 ![image](https://github.com/user-attachments/assets/c2d95011-af5c-491f-83a2-2f0d4669521a)
 
 
